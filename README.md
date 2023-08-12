@@ -1,3 +1,3 @@
 PROCEDIMIENTO:
- -Primer cambio del readme por cristian
+-Primer cambio del readme por cristian
 - segundo comit
