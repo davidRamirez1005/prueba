@@ -1,2 +1,3 @@
 PROCEDIMIENTO:
-ffdgfgfgfg
+-Primer cambio del readme por cristian
+- segundo comit
